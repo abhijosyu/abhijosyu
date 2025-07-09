@@ -4,19 +4,19 @@
 ## 🎯 About Me:
 
 - Rising 2nd Year Computer Science Student
-- I Love UI/UX Design
-- 
+- Interested In UI/UX Design & Frontend 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
+- **Languages**: Java, TypeScript, HTML, CSS
+- **Libraries & Frameworks**: React, Vite
 
-- Java
-- Typescript 
-- React
-- HTML
-- CSS
+
+## 📌 Projects
+### [🗂️ Daily Task Tracker](https://github.com/abhijosyu/daily-tracker)
+> productivity app built with React + TypeScript  
 
   
 ## 📫 Contact Me:
 
-- Email: Abhijosyu@gmail.com
+- **Email**: Abhijosyu@gmail.com
   
