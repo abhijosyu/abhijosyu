@@ -12,7 +12,7 @@
 
 
 ## 📌 Projects
-### [🗂️ Daily Task Tracker](https://github.com/abhijosyu/daily-tracker)
+### [🗂️ Daily Task Tracker](https://github.com/abhijosyu/daily-tracker-project)
 > productivity app built with React + TypeScript  
 
   
