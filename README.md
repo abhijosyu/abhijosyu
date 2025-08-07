@@ -15,7 +15,7 @@
 ### [🗂️ Daily Task Tracker](https://github.com/abhijosyu/daily-tracker-project)
 > productivity app built with React + TypeScript
 
-> ### [🗂️ Daily Journal Logger](https://github.com/abhijosyu/journal-tracker)
+### [📗 Daily Journal Logger](https://github.com/abhijosyu/journal-tracker)
 > journal logging app built with React, Typescript, + Python
 
   
